@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Year,Month,Customer_ID,Customer_Type,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Revenue,Estimated_Profit,Revenue_Level,Payment_Mode
+ORD001,2023-01-05,2023,January,CUST101,New,South,Electronics,Smartphone,1,15000,0.05,14250,3562.5,Medium,Credit Card
+ORD002,2023-01-07,2023,January,CUST102,Repeat,West,Furniture,Office Chair,2,5500,0.10,9900,2475,Medium,UPI
+ORD003,2023-01-10,2023,January,CUST103,New,East,Electronics,Laptop,1,55000,0.08,50600,12650,High,Debit Card
+ORD004,2023-01-15,2023,January,CUST104,Repeat,North,Clothing,Formal Shirt,3,1200,0.00,3600,900,Low,Cash
+ORD005,2023-02-02,2023,February,CUST101,Repeat,South,Electronics,Wireless Earbuds,2,2500,0.05,4750,1187.5,Low,Credit Card
+ORD006,2023-02-05,2023,February,CUST105,New,West,Clothing,Jeans,2,2000,0.10,3600,900,Low,UPI
+ORD007,2023-02-12,2023,February,CUST106,Repeat,East,Furniture,Study Table,1,8000,0.00,8000,2000,Medium,Debit Card
+ORD008,2023-02-18,2023,February,CUST107,New,North,Electronics,Tablet,1,18000,0.07,16740,4185,Medium,Credit Card
+ORD009,2023-03-01,2023,March,CUST102,Repeat,West,Electronics,Smartwatch,1,7000,0.05,6650,1662.5,Medium,UPI
+ORD010,2023-03-05,2023,March,CUST108,New,South,Clothing,T-Shirt,4,800,0.00,3200,800,Low,Cash
+ORD011,2023-03-12,2023,March,CUST104,Repeat,North,Electronics,Smartphone,1,16000,0.10,14400,3600,Medium,Debit Card
+ORD012,2023-03-18,2023,March,CUST109,New,East,Furniture,Bookshelf,1,6000,0.05,5700,1425,Low,Credit Card
+ORD013,2023-04-02,2023,April,CUST110,New,South,Electronics,Laptop,1,58000,0.12,51040,12760,High,UPI
+ORD014,2023-04-08,2023,April,CUST106,Repeat,East,Clothing,Jacket,1,4500,0.00,4500,1125,Low,Cash
+ORD015,2023-04-15,2023,April,CUST101,Repeat,South,Electronics,Smartphone,1,15500,0.05,14725,3681.25,Medium,Credit Card
+ORD016,2023-04-20,2023,April,CUST111,New,West,Furniture,Office Desk,1,12000,0.10,10800,2700,Medium,Debit Card
+ORD017,2023-05-05,2023,May,CUST112,New,North,Clothing,Sneakers,1,3000,0.00,3000,750,Low,UPI
+ORD018,2023-05-12,2023,May,CUST102,Repeat,West,Electronics,Laptop,1,56000,0.08,51520,12880,High,Credit Card
+ORD019,2023-05-18,2023,May,CUST113,New,East,Electronics,Headphones,2,2000,0.05,3800,950,Low,Debit Card
+ORD020,2023-05-25,2023,May,CUST104,Repeat,North,Furniture,Dining Chair,2,4000,0.10,7200,1800,Medium,Cash
